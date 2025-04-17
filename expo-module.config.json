@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ExpoWebviewUaModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "com.codingways.webviewua.ExpoWebviewUaModule"
+    ]
+  }
+}
