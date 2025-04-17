@@ -3,7 +3,6 @@ package com.codingways.webviewua
 import android.os.Build
 import android.webkit.WebSettings
 import android.webkit.WebView
-import com.facebook.react.bridge.ReactApplicationContext
 import expo.modules.kotlin.modules.Module
 import expo.modules.kotlin.modules.ModuleDefinition
 
